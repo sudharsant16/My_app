@@ -1,0 +1,65 @@
+{
+  "EmployeeData": [
+    {
+      "name": "Karthick",
+      "email": "sudharsant026@gmail.com",
+      "mobile": "65565614",
+      "id": 1
+    },
+    {
+      "name": "poornima",
+      "email": "a@GMAIL.COM",
+      "mobile": "65565614",
+      "id": 2
+    },
+    {
+      "name": "nihal",
+      "email": "sidhu@gmail.com",
+      "mobile": "09080781412",
+      "id": 3
+    },
+    {
+      "name": "sathya",
+      "email": "sudharsant026@gmail.com",
+      "mobile": "65565614",
+      "id": 4
+    },
+    {
+      "name": "jashvanth",
+      "email": "sidhu@gmail.com",
+      "mobile": "09080781412",
+      "id": 5
+    },
+    {
+      "name": "nihal h",
+      "email": "sidhu@gmail.com",
+      "mobile": "09080781412",
+      "id": 6
+    },
+    {
+      "name": "arathi",
+      "email": "tsudharsan47@gmail.com",
+      "mobile": "09080781412",
+      "id": 7
+    },
+    {
+      "name": "Nijam",
+      "email": "tsudharsan47@gmail.com",
+      "mobile": "09080781412",
+      "id": 8
+    },
+    {
+      "name": "vijay",
+      "email": "tsudharsan47@gmail.com",
+      "mobile": "09080781412",
+      "id": 9
+    },
+    {
+      "name": "Vijay",
+      "email": "tsudharsan47@gmail.com",
+      "mobile": "09080781412",
+      "id": 10
+    }
+  ],
+  "AddToCart": []
+}
